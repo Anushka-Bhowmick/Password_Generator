@@ -10,6 +10,8 @@ Simple and easy-to-use interface.
 # Demo
 See the live demo of the Password Generator Web App here.
 https://password-generator-brown-psi.vercel.app/
+![Screenshot (235)](https://github.com/Anushka-Bhowmick/Password_Generator/assets/76967222/8bd7295a-e1dc-41a1-a5c4-efadc3e0a27a)
+
 
 # How to Use
 Clone this repository to your local machine using git clone https://github.com/Anushka-Bhowmick/Password_Generator.git
